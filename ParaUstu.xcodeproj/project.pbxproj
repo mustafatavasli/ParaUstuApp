@@ -14,6 +14,18 @@
 		D6CD2C022BC2A245001D006A /* IntroScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C012BC2A245001D006A /* IntroScreen.swift */; };
 		D6CD2C052BC2A59E001D006A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C042BC2A59E001D006A /* Constants.swift */; };
 		D6CD2C072BC2A848001D006A /* TabModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C062BC2A848001D006A /* TabModel.swift */; };
+		D6CD2C092BC2B3F0001D006A /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C082BC2B3F0001D006A /* CategoryModel.swift */; };
+		D6CD2C0B2BC2B43C001D006A /* TransactionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C0A2BC2B43C001D006A /* TransactionModel.swift */; };
+		D6CD2C0D2BC2B4CC001D006A /* TintColorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C0C2BC2B4CC001D006A /* TintColorModel.swift */; };
+		D6CD2C102BC2B649001D006A /* RecentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C0F2BC2B649001D006A /* RecentsView.swift */; };
+		D6CD2C122BC2B668001D006A /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C112BC2B668001D006A /* SearchView.swift */; };
+		D6CD2C142BC2B67D001D006A /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C132BC2B67D001D006A /* ChartView.swift */; };
+		D6CD2C162BC2B68E001D006A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C152BC2B68E001D006A /* SettingsView.swift */; };
+		D6CD2C182BC2B82F001D006A /* View+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C172BC2B82F001D006A /* View+Extensions.swift */; };
+		D6CD2C1A2BC2BE5E001D006A /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C192BC2BE5E001D006A /* Date+Extensions.swift */; };
+		D6CD2C1D2BC2C8F2001D006A /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C1C2BC2C8F2001D006A /* CardView.swift */; };
+		D6CD2C1F2BC2D022001D006A /* TransactionCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C1E2BC2D022001D006A /* TransactionCardView.swift */; };
+		D6CD2C212BC2D383001D006A /* DateFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CD2C202BC2D383001D006A /* DateFilterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +37,18 @@
 		D6CD2C012BC2A245001D006A /* IntroScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroScreen.swift; sourceTree = "<group>"; };
 		D6CD2C042BC2A59E001D006A /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		D6CD2C062BC2A848001D006A /* TabModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabModel.swift; sourceTree = "<group>"; };
+		D6CD2C082BC2B3F0001D006A /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
+		D6CD2C0A2BC2B43C001D006A /* TransactionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModel.swift; sourceTree = "<group>"; };
+		D6CD2C0C2BC2B4CC001D006A /* TintColorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TintColorModel.swift; sourceTree = "<group>"; };
+		D6CD2C0F2BC2B649001D006A /* RecentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentsView.swift; sourceTree = "<group>"; };
+		D6CD2C112BC2B668001D006A /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		D6CD2C132BC2B67D001D006A /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
+		D6CD2C152BC2B68E001D006A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		D6CD2C172BC2B82F001D006A /* View+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extensions.swift"; sourceTree = "<group>"; };
+		D6CD2C192BC2BE5E001D006A /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
+		D6CD2C1C2BC2C8F2001D006A /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		D6CD2C1E2BC2D022001D006A /* TransactionCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionCardView.swift; sourceTree = "<group>"; };
+		D6CD2C202BC2D383001D006A /* DateFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFilterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +103,8 @@
 		D6CD2BFF2BC2A20D001D006A /* View */ = {
 			isa = PBXGroup;
 			children = (
+				D6CD2C1B2BC2C8CF001D006A /* Helpers */,
+				D6CD2C0E2BC2B631001D006A /* TabViews */,
 				D6CD2C012BC2A245001D006A /* IntroScreen.swift */,
 			);
 			path = View;
@@ -88,6 +114,9 @@
 			isa = PBXGroup;
 			children = (
 				D6CD2C062BC2A848001D006A /* TabModel.swift */,
+				D6CD2C082BC2B3F0001D006A /* CategoryModel.swift */,
+				D6CD2C0A2BC2B43C001D006A /* TransactionModel.swift */,
+				D6CD2C0C2BC2B4CC001D006A /* TintColorModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -96,6 +125,29 @@
 			isa = PBXGroup;
 			children = (
 				D6CD2C042BC2A59E001D006A /* Constants.swift */,
+				D6CD2C172BC2B82F001D006A /* View+Extensions.swift */,
+				D6CD2C192BC2BE5E001D006A /* Date+Extensions.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		D6CD2C0E2BC2B631001D006A /* TabViews */ = {
+			isa = PBXGroup;
+			children = (
+				D6CD2C0F2BC2B649001D006A /* RecentsView.swift */,
+				D6CD2C112BC2B668001D006A /* SearchView.swift */,
+				D6CD2C132BC2B67D001D006A /* ChartView.swift */,
+				D6CD2C152BC2B68E001D006A /* SettingsView.swift */,
+			);
+			path = TabViews;
+			sourceTree = "<group>";
+		};
+		D6CD2C1B2BC2C8CF001D006A /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				D6CD2C1C2BC2C8F2001D006A /* CardView.swift */,
+				D6CD2C1E2BC2D022001D006A /* TransactionCardView.swift */,
+				D6CD2C202BC2D383001D006A /* DateFilterView.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -170,11 +222,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6CD2C122BC2B668001D006A /* SearchView.swift in Sources */,
 				D6CD2BF42BC2A1C9001D006A /* ContentView.swift in Sources */,
+				D6CD2C092BC2B3F0001D006A /* CategoryModel.swift in Sources */,
 				D6CD2C022BC2A245001D006A /* IntroScreen.swift in Sources */,
+				D6CD2C1D2BC2C8F2001D006A /* CardView.swift in Sources */,
+				D6CD2C212BC2D383001D006A /* DateFilterView.swift in Sources */,
 				D6CD2BF22BC2A1C9001D006A /* ParaUstuApp.swift in Sources */,
+				D6CD2C102BC2B649001D006A /* RecentsView.swift in Sources */,
+				D6CD2C0B2BC2B43C001D006A /* TransactionModel.swift in Sources */,
+				D6CD2C142BC2B67D001D006A /* ChartView.swift in Sources */,
 				D6CD2C052BC2A59E001D006A /* Constants.swift in Sources */,
+				D6CD2C1A2BC2BE5E001D006A /* Date+Extensions.swift in Sources */,
+				D6CD2C182BC2B82F001D006A /* View+Extensions.swift in Sources */,
+				D6CD2C162BC2B68E001D006A /* SettingsView.swift in Sources */,
+				D6CD2C0D2BC2B4CC001D006A /* TintColorModel.swift in Sources */,
 				D6CD2C072BC2A848001D006A /* TabModel.swift in Sources */,
+				D6CD2C1F2BC2D022001D006A /* TransactionCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
